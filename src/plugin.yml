@@ -1,0 +1,3 @@
+name: ScoreboardAPI
+version: 0.1
+main: it.mr_replete.scoreboardapi.ScoreboardAPI

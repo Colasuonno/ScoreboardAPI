@@ -1,0 +1,16 @@
+
+# it will be start from 1 to list lenght (Score)
+scoreboard:
+ - "&7&m+--------------------+"
+ - "&3Players&7: {CURRENTPLAYERS}/{MAXPLAYERS}"
+ - "&3You&7: {PLAYER}"
+ - "&3Current Ping&7: {PING}"
+ - "&7&m+--------------------+"
+
+options:
+  # if you want to use this api without the default scoreboard set false
+  active: true
+  # score 1,etc etc
+  starting_score: 1ù
+  # the title lenght must be lower or equals to 32
+  title: "&cScoreboardAPI Title"
