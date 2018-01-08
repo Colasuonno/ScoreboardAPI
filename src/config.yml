@@ -1,4 +1,14 @@
 
+ ######################################################################
+ #   _   _   _                 ____                               _   #
+ #  | \ | | (_)   ___    ___  | __ )    ___     __ _   _ __    __| |  #
+ #  |  \| | | |  / __|  / _ \ |  _ \   / _ \   / _` | | '__|  / _` |  #
+ #  | |\  | | | | (__  |  __/ | |_) | | (_) | | (_| | | |    | (_| |  #
+ #  |_| \_| |_|  \___|  \___| |____/   \___/   \__,_| |_|     \__,_|  #
+ #                                                                    #
+ #                  Developed by Mr_Replete <3                        #
+ ######################################################################
+
 # it will be start from 1 to list lenght (Score)
 scoreboard:
  - "&7&m+--------------------+"
@@ -11,6 +21,6 @@ options:
   # if you want to use this api without the default scoreboard set false
   active: true
   # score 1,etc etc
-  starting_score: 1ù
+  starting_score: 1
   # the title lenght must be lower or equals to 32
   title: "&cScoreboardAPI Title"
