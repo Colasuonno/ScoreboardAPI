@@ -37,7 +37,7 @@ public class ScoreboardUtil {
         Objective objective = board.registerNewObjective("Objective", "dummy");
 
         // adding stuff to scoreboard
-        objective.setDisplayName(title);
+         objective.setDisplayName(ChatColor.translateAlternateColorCodes('&', title));
         objective.setDisplaySlot(displaySlot);
 
         NiceBoard scoreboard = new NiceBoard(board);
